@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geolocalizacion</string>
+    <string name="title_activity_ubicacion">Map</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="item_mi_nombre">Nombre</string>
+    <string name="item_mis_carreras">Mis Carreras</string>
+    <string name="item_mi_perfil">Perfil</string>
+    <string name="item_mis_pasajeros">Mis pasajeros</string>
+    <string name="item_mis_ganancias">Ganancias</string>
+    <string name="boton_ubicacion">Mostrar Ubicacion</string>
+
+</resources>
